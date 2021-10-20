@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DevinRShaw
-- 👀 I’m interested in full web development
-- 🌱 I’m currently learning front end development through HTML, CSS and Javascript
-- 💞️ I’m looking to collaborate on front end projects focused on CSS skills
+- 👀 I’m interested in any and all types of technology 
+- 🌱 I’m currently learning about software development in C++
+- 💞️ I’m looking to collaborate on anything that fits my skill level
 - 📫 How to reach me ...
 
 <!---
