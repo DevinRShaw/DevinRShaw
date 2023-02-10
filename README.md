@@ -3,7 +3,7 @@
 DevinRShaw/DevinRShaw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Welcome to my GitHub account! I am a computer science student with a passion for data and machine learning. On this account, you will find a variety of projects I have worked on related to these topics. I enjoy the ease of developemnt with python and its libraries so most projects here are written in python, but I am open to contributing to projects in any language.
+Welcome to my GitHub account! I am a computer science student with a passion for learning about automation, data and machine learning. On this account, you will find a variety of projects I have worked on related to these topics. I enjoy the ease of developemnt with python and its libraries so most projects here are written in python, but I am open to contributing to projects in any language.
 
 My projects include:
 
