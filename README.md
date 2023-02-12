@@ -7,9 +7,10 @@ Welcome to my GitHub account! I am a computer science student with a passion for
 
 My projects include:
 
-- Data collection libraries for dataset creation (simple_noaa)(NBA-2021-Per-Game-data)
-- Dataset creation for use in models built using frameworks such as scikit-learn (wildfire_dataset_creation)(NBA-2021-Per-Game-data)
+- Data collection libraries for dataset creation (simple_noaa) (NBA-Webscraper)
+- Dataset creation for use in models built using frameworks such as scikit-learn (wildfire_dataset_creation) (NBA-Webscraper)
 - Bot info creation (swarm_spawn)
 - Browser automation with selenium 
+- Data Structure and Algorithms exercises (cppDataAlgorithms)
 - Please feel free to take a look around and let me know if you have any questions or suggestions for future projects. Thank you for visiting!
 
