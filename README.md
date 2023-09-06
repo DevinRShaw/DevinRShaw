@@ -11,6 +11,6 @@ My projects include:
 - Dataset creation for use in models built using frameworks such as scikit-learn and tensorflow/keras (wildfire_dataset_creation) (survey_data_creation)
 - Data analysis for insight and prospecting data for modeling (survey_data_analysis)
 - Data manipulation for increasing utility of datasets (Hurricane-Data-Conversion-Method)
-- 
+  
 Please feel free to take a look around and let me know if you have any questions or suggestions for future projects. Thank you for visiting!
 
