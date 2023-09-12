@@ -3,7 +3,7 @@
 DevinRShaw/DevinRShaw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Welcome to my GitHub account! I am a UCR computer/data science student and NOAA EPP/MSI scholar currently working on environmental and social applications. On this account, you will find a variety of projects I have worked on related to these topics. I enjoy the ease of development with python and the notebook style of development so most projects here are written in python/jupyter, but I am open to contributing to projects in other languages.
+Welcome to my GitHub account! I am a UCR computer/data science student and NOAA EPP/MSI scholar currently working on environmental applications of machine learning. On this account, you will find a variety of projects I have worked on related to these topics. I enjoy the ease of development with python and the notebook style of development so most projects here are written in python/jupyter, but I am open to contributing to projects in other languages.
 
 My projects include:
 
