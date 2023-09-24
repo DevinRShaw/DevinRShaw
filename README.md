@@ -8,7 +8,7 @@ Welcome to my GitHub account! I am a UCR computer/data science student and NOAA 
 My projects include:
 
 - Data collection libraries (simple_noaa) (NBA-Webscraper) (Weather-Forecast-Web-Scraper)
-- Dataset creation for use in models built using frameworks such as scikit-learn and tensorflow/keras (wildfire_dataset_creation) (survey_data_creation)
+- Dataset creation for use in machine learning models (wildfire_dataset_creation) (survey_data_creation)
 - Data analysis for insight and prospecting data for modeling (survey_data_analysis)
 - Data manipulation for increasing utility of datasets (Hurricane-Data-Conversion-Method)
 - Exploring the use cases of classical machine learning models (titanic_machine_learning_model)
