@@ -10,7 +10,7 @@ My projects include:
 - Data collection libraries (simple_noaa) (NBA-Webscraper) (Weather-Forecast-Web-Scraper)
 - Dataset creation for use in machine learning models (wildfire_dataset_creation) (survey_data_creation)
 - Data analysis for insight and prospecting data for modeling (survey_data_analysis)
-- Data manipulation for increasing utility of datasets (Hurricane-Data-Conversion-Method)
+- Data manipulation for increasing utility of datasets (Hurricane-Data-Conversion-Method) (survey_data_creation)
 - Exploring the use cases of classical machine learning models (titanic_machine_learning_model)
 - Backend applications for transfer of data (testAPI)
 
