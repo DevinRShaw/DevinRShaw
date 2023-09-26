@@ -12,7 +12,7 @@ My projects include:
 - Data analysis for insight and prospecting data for modeling (survey_data_analysis)
 - Data manipulation for increasing utility of datasets (Hurricane-Data-Conversion-Method) (survey_data_creation)
 - Exploring the use cases of classical machine learning models (titanic_machine_learning_model)
-- Backend applications for transfer of data (testAPI)
+- Backend applications for transfer of data (testAPI)(hate_detection_scraper)
 
 
 Please feel free to take a look around and let me know if you have any questions or suggestions for future projects. Thank you for visiting!
