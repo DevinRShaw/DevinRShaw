@@ -3,7 +3,7 @@
 DevinRShaw/DevinRShaw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Welcome to my GitHub account! I am a UCR computer science student and [NOAA EPP/MSI](https://www.noaa.gov/office-education/epp-msi) scholar focused on data science and machine learning. I currently work as a signals engineer for UCR's [EcoCar](https://ecocar.engr.ucr.edu/) project, where I am building systems that allow self-driving vehicles to communicate in real time. On this account, you will find a variety of projects I have worked on related to these topics. Most projects have been developed in a Linux environment. I enjoy the ease of development with python and the notebook style of development so most projects here are written in python/jupyter, but I am open to contributing to projects in C++ as well. 
+Welcome to my GitHub account! I am a UCR computer science student and [NOAA EPP/MSI](https://www.noaa.gov/office-education/epp-msi) scholar focused on data science and machine learning. I currently work as a signals engineer for UCR's [EcoCar](https://ecocar.engr.ucr.edu/) project, where I am building systems that allow self-driving vehicles to communicate in real time. On this account, you will find a variety of personal projects I have worked on related to data and machine learning. Most projects have been developed in a Linux environment. I enjoy the ease of development with python and the notebook style of development so most projects here are written in python/jupyter, but I am open to contributing to projects in C++ as well. 
 
 My projects include:
 
