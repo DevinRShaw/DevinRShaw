@@ -8,7 +8,7 @@ Welcome to my GitHub account! I am a UCR computer science student and [NOAA EPP/
 
 
 My personal projects include:
-
+- Machine Learning model creation for use in magnetic navigation (Magnetic Anomaly Prediciton) 
 - C++ Networking and Multithreading (InternetChatRoom)
 - Data collection libraries (simple_noaa) (NBA-Webscraper) (Weather-Forecast-Web-Scraper)
 - Dataset creation for use in machine learning models (wildfire_dataset_creation) (survey_data_creation)
