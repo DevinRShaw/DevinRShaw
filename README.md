@@ -14,8 +14,7 @@ My personal projects include:
 - Dataset creation for use in machine learning models (wildfire_dataset_creation) (survey_data_creation)
 - Data analysis for insight and prospecting data for modeling (survey_data_analysis)
 - Data manipulation for increasing the utility of datasets (Hurricane-Data-Conversion-Method) (survey_data_creation)
-- Exploring the use cases of classical machine learning models (titanic_machine_learning_model)
-- Backend applications for transfer of data (testAPI) (hate_detection_scraper)
+- Backend applications for insertion and management of data (PizzaDeliveryApplication)
 
 
 Please feel free to take a look around and let me know if you have any questions or suggestions for future projects. Thank you for visiting!
