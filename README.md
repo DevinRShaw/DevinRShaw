@@ -16,8 +16,3 @@ Hi, I'm Devin R. Shaw, a Computer Science student at UC Riverside and a [NOAA EP
 - **Java/SQL Delivery Application** – A Java and SQL-based pizza ordering system with full database integration and documented SQL operations.  
 
 
-## 📰 Articles & Blog  
-Check out my [blog](https://medium.com/@devinrshaw) where I discuss topics like data structures, algorithms, and the ethics of AI and machine learning.  
-
-Feel free to explore my repositories, and if you have any questions or project ideas, let me know!  
-
