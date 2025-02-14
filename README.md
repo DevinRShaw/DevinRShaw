@@ -1,18 +1,21 @@
+# Welcome to My GitHub!  
 
-<!---
-DevinRShaw/DevinRShaw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-Welcome to my GitHub account! I am a UCR computer science student and [NOAA EPP/MSI](https://www.noaa.gov/office-education/epp-msi) scholar. I enjoy creating solutions for real-world objectives.
+Hi, I'm Devin R. Shaw, a Computer Science student at UC Riverside and a [NOAA EPP/MSI](https://www.noaa.gov/office-education/epp-msi) scholar. I specialize in backend development, data analysis, and compiler design. My work spans machine learning, system programming, and algorithm optimization.  
 
-My personal projects include:
-- Machine Learning model creation for use in magnetic navigation 
-- C++ Networking and Multithreading 
-- Backend applications for database IO 
-- Data Science Projects and Tools
+## 🔧 Skills & Interests  
+- **Programming:** Python, Java, C++, Rust, Scala, SQL, MATLAB  
+- **Tech Stack:** Django, PostgreSQL, Hadoop, Pandas, NumPy, Scikit-Learn  
+- **Focus Areas:** Backend Development, Data Science, Compiler Design, ML Optimization  
 
+## 🏗️ Notable Projects  
+- **Magnetic Anomaly Prediction** – Built ML models to improve navigation accuracy.  
+- **Teh Terik Compiler** – Developing a toy language compiler in Rust with error handling and code generation.  
+- **Terminal Chat Room (C++)** – Implemented networking and multithreading for real-time messaging.  
+- **NOAA API Wrapper (Python)** – Created a Python wrapper for NOAA datasets.  
+- **Autonomous Vehicle Controls** – Designed control systems using MATLAB/Simulink for the EcoCar EV Challenge.  
 
-Please feel free to take a look around and let me know if you have any questions or suggestions for future projects. Thank you for visiting!
+## 📰 Articles & Blog  
+Check out my [blog](https://medium.com/@devinrshaw) where I discuss topics like data structures, algorithms, and the ethics of AI and machine learning.  
 
-Visit my [blog page](https://medium.com/@devinrshaw) for articles explaining concepts from data structures and algorithms to discussion on the ethics of machine learning and AI.
+Feel free to explore my repositories, and if you have any questions or project ideas, let me know!  
 
