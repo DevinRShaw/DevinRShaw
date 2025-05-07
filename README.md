@@ -1,6 +1,6 @@
 # Welcome to My GitHub!  
 
-Hi, I'm Devin R. Shaw, a Computer Science student at UC Riverside, a [NOAA EPP/MSI](https://www.noaa.gov/office-education/epp-msi) scholar and a Lawrence Livermoore National Labratory Computing Scholar. I specialize in backend/database applications, and research focused development. My work spans machine learning, network programming, and game development.  
+Hi, I'm Devin R. Shaw, a Computer Science student at UC Riverside, a [NOAA EPP/MSI](https://www.noaa.gov/office-education/epp-msi) scholar and a Lawrence Livermoore National Labratory Computing Scholar. I am focused in backend applications, and research focused development. My work spans machine learning, network programming, information retreival and game development.  
 
 ## 🔧 Skills & Interests  
 - **Programming:** Python, Java, C++, Rust, Scala, SQL, MATLAB, C#
