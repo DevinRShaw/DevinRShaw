@@ -12,8 +12,5 @@ Hi, I'm Devin R. Shaw, a Computer Science student at UC Riverside, a [NOAA EPP/M
 - **Heart's Bid Game (C#)** – A 2D top-down shooter with poker hand combo mechanics. Features enemy pathfinding, poker hand ranking system and uses coroutines. Escape the casino after winning too much—before security catches you!
 - **Custom Compiler (Rust)** – Developed a toy language compiler front end in Rust with error handling and code generation. Includes test suites for each phase.  
 - **Terminal Chat Room (C++)** – Implemented networking and multithreading for real-time messaging on a Linux server via the command line.  
-- **NOAA API Wrapper(simple_noaa) (Python)** – Created `simple_noaa`, a Python library that streamlines access to NOAA datasets for data aggregation. 
-- **Wildfire Local Climate Data Creation (Python)** – Developed a fire climate dataset from NOAA API data for machine learning applications.  
-- **Store Delivery Application (Java/SQL)** – A Java and SQL-based pizza ordering system with full database integration and documented SQL operations.  
 
 
