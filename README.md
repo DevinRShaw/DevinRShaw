@@ -4,7 +4,7 @@ Hi, I'm Devin R. Shaw, a Computer Science student at UC Riverside, a [NOAA EPP/M
 
 ## 🔧 Skills & Interests  
 - **Programming:** Python, Java, C++, Rust, Scala, SQL, MATLAB, C#
-- **Tech Stack:** Django, PostgreSQL, Hadoop, Pandas, NumPy, Scikit-Learn, Unity 
+- **Tech Stack:** Flask, MySQL, Hadoop, Pandas, NumPy, Scikit-Learn, Unity, Spark
 - **Focus Areas:** Backend Development, Data Science, Software Engineering, ML Optimization  
 
 ## 🏗️ Notable Projects  
