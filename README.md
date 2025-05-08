@@ -11,6 +11,6 @@ Hi, I'm Devin R. Shaw, a Computer Science student at UC Riverside, a [NOAA EPP/M
 - **Magnetic Anomaly Prediction (Python)** – Built ML models to improve navigation accuracy using random forest regression trained on geophysical data.
 - **Heart's Bid Game (C#)** – A 2D top-down shooter with poker hand combo mechanics. Features enemy pathfinding, poker hand ranking system and uses coroutines. Escape the casino after winning too much—before security catches you!
 - **Custom Compiler (Rust)** – Developed a toy language compiler front end in Rust with error handling and code generation. Includes test suites for each phase.  
-- **Terminal Chat Room (C++)** – Implemented networking and multithreading for real-time messaging on a Linux server via the command line.  
+- **Terminal Chat Room (C++)** – Implemented networking and multithreading for real-time messaging on a Linux server via the command line. Features user authenticaiton, admin accounts and logging.
 
 
