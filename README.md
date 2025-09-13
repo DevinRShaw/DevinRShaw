@@ -2,10 +2,12 @@
 
 Hi, I'm Devin R. Shaw, a Computer Science student at UC Riverside, a [NOAA EPP/MSI](https://www.noaa.gov/office-education/epp-msi) scholar and a Lawrence Livermoore National Labratory Computing Scholar. I am focused in backend applications, and research focused development. My work spans machine learning, network programming, information retreival and game development.  
 
+
+
 ## 🔧 Skills & Interests  
-- **Programming:** Python, Java, C++, Rust, Scala, SQL, MATLAB, C#
+- **Programming:** Python, Java, C++, SQL, MATLAB, C#
 - **Tech Stack:** Flask, MySQL, Hadoop, Pandas, NumPy, Scikit-Learn, Unity, Spark
-- **Focus Areas:** Backend Development, Data Science, Software Engineering, ML Optimization  
+- **Focus Areas:** Backend Development, Data Science, Software Engineering, Optimization  
 
 ## 🏗️ Notable Projects  
 - **Magnetic Anomaly Prediction (Python)** – Built ML models to improve navigation accuracy using random forest regression trained on geophysical data.
