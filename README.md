@@ -2,7 +2,7 @@
 
 Hi, I'm Devin R. Shaw, a Computer Science student at UC Riverside and a Lawrence Livermore National Labratory NIF work-study. 
 
-I currently work on high-throughput image processing software @ LLNL. Anything relating to larIn my education and projects I am focused on parallel/concurrent programming, networks, OS and optimization as a whole. 
+I currently work on high-throughput image processing software @ LLNL. Anything relating to speed and scale is something I am interested in. In my education and projects I am focused on parallel/concurrent programming, networks, OS and optimization as a whole. 
 
 
 
