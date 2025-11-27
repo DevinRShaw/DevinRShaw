@@ -2,7 +2,7 @@
 
 **Software Engineer | UC Riverside CS '25 | LLNL Co-op**
 
-I'm most interested in creating solution to problems where performance and concurrency are apart of solving problems. Not only what to do with our resources but how to do it given a scenario. I want to grow as an engineer in a role that not only requires correctness of computation, but also places constraints on speed and the resources available. 
+I'm most interested in creating solutions to problems where performance and concurrency are important. I want to grow as an engineer in a role that not only requires correctness of computation, but also places constraints on speed and the resources available. 
 
 My favorite personal projects have been games, both of which have gameplay featured in their README files. Although I am not interested in game development as a career, it is a fun application of computers and playing them is the reward.
 
