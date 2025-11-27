@@ -2,7 +2,7 @@
 
 **Software Engineer | UC Riverside CS '25 | LLNL Co-op**
 
-I'm most interested in creating solution to problems where performance and concurrency are used to solve difficult problems. Problems that not only requires correctness of computation, but also place constraints on speed and the availible resources to the software are the most interesting to me as an engineer. Not only what to do with our resources but how to do it. 
+I'm most interested in creating solution to problems where performance and concurrency are used to solve difficult problems. Not only what to do with our resources but how to do it given a scenario. Problems that not only require correctness of computation, but also place constraints on speed and the resources available to the software are where I want to grow as an engineer. 
 
 ## 🛠️ Technical Stack
 
