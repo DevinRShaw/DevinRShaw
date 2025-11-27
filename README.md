@@ -4,13 +4,6 @@
 
 I'm most interested in creating solution to problems where performance and concurrency are used to solve difficult problems. Problems that not only requires correctness of computation, but also place constraints on speed and the availible resources to the software are the most interesting to me as an engineer. Not only what to do with our resources but how to do it. 
 
-
-**Spatial ML Intern @ CIRES (NOAA)**  
-*June 2024 – December 2024*
-- Doubled magnetic anomaly prediction accuracy for the MagNav navigation project
-- Engineered ML pipeline with scikit-learn random forest models trained on geophysical datasets
-- Presented research findings at AGU 2024 conference
-
 ## 🛠️ Technical Stack
 
 **Languages:** Python • C++ • SQL • C# • Bash • Java  
