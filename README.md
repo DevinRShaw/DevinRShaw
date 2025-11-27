@@ -19,7 +19,6 @@ I'm most interested in creating solution to problems where performance and concu
 - **[TCP Chat Room (C++)](link)** – Multi-threaded client-server chatroom with authentication, admin privileges, and persistent logging.
 
 ### Networking & Distributed Systems
-- **[Custom TCP/UDP State Machine (Python)](link)** – State-driven networking protocol with reliable connection handling, message sequencing, and concurrent client support.
 - **[DHCP Server (Python)](link)** – Multi-threaded DHCP implementation with lease management, intelligent IP allocation, and thread-safe concurrency controls.
 - **[Reddit Search Engine](link)** – Multi-threaded web crawler with PyLucene indexing and Flask interface for fast, distributed search.
 
