@@ -14,7 +14,7 @@ I'm most interested in creating solution to problems where performance and concu
 ## 🎯 Featured Projects
 
 ### System-Level Programming
-- **[Flappy Bird AVR Clone](link)** – Real-time embedded game on bare-metal ATmega328P with custom interrupt-driven scheduler. Optimized memory usage by 99.6% through efficient rendering algorithms within 2KB RAM constraint.
+- **[Flappy Bird AVR Clone](https://github.com/DevinRShaw/Clicky-Bird-Embedded-AVR-Game)** – Real-time embedded game on bare-metal ATmega328P with custom interrupt-driven scheduler. Optimized memory usage by 99.6% through efficient rendering algorithms within 2KB RAM constraint.
 - **[Async Chat Server (C)](link)** – Event-driven server using epoll with non-blocking I/O, efficient client management via uthash, and scalable connection handling.
 - **[TCP Chat Room (C++)](link)** – Multi-threaded client-server chatroom with authentication, admin privileges, and persistent logging.
 
