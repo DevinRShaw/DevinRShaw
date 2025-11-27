@@ -2,24 +2,8 @@
 
 **Software Engineer | UC Riverside CS '25 | LLNL Co-op**
 
-I'm passionate about building high-performance systems that prioritize speed, scale, and simplicity. Most recently at Lawrence Livermore National Laboratory, I optimized image-processing pipelines, reducing computation time by 98% through parallelization and productionized scientific software packages enabling researchers to deploy and use our tools in production environments.
+I'm most interested in creating solution to problems where performance and concurrency are used to solve difficult problems. Problems that not only requires correctness of computation, but also place constraints on speed and the availible resources to the software are the most interesting to me as an engineer. Not only what to do with our resources but how to do it. 
 
-
-
-## My Interests
-
-I specialize in building robust, scalable software systems with a focus on:
-- **High-Performance Computing** – Parallel processing, concurrency, and optimization
-- **Backend Development** – Server design, networking protocols, and distributed systems
-- **Machine Learning Engineering** – Production ML pipelines and data-driven solutions
-
-## Professional Experience
-
-**Software Engineering Co-op @ Lawrence Livermore National Laboratory**  
-*June 2025 – December 2025*
-- Accelerated image analysis software from 24 hours to 30 minutes (48× speedup) through parallel processing optimization
-- Productionized research code with robust testing, SQL integration, and automated CI/CD pipelines
-- Enhanced defect detection capabilities using advanced image processing techniques
 
 **Spatial ML Intern @ CIRES (NOAA)**  
 *June 2024 – December 2024*
@@ -32,7 +16,7 @@ I specialize in building robust, scalable software systems with a focus on:
 **Languages:** Python • C++ • SQL • C# • Bash • Java  
 **Systems:** Linux • Concurrency & Multithreading • TCP/UDP Networking • Real-time Processing  
 **ML/Data:** Pandas • NumPy • Scikit-Learn • Apache Spark • Matplotlib  
-**Tools:** Git • Flask • Docker • CMake • GDB • Pytest
+**Tools:** Git • Flask • CMake • GDB • Pytest
 
 ## 🎯 Featured Projects
 
@@ -56,17 +40,9 @@ I specialize in building robust, scalable software systems with a focus on:
 ### Developer Tools
 - **[simple_noaa (Python)](link)** – Lightweight library simplifying access to NOAA's climate dataset API with intuitive date/time utilities.
 
-## 🎓 Education
-
-**B.S. Computer Science** – UC Riverside (Magna Cum Laude, Class of 2025)  
-*3× BCOE Scholarship Recipient*
 
 ## 📫 Let's Connect
 
 [![Email](https://img.shields.io/badge/Email-devinrshaw%40gmail.com-red?style=flat-square&logo=gmail)](mailto:devinrshaw@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-DevinRShaw-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/DevinRShaw)
-[![GitHub](https://img.shields.io/badge/GitHub-DevinRShaw-black?style=flat-square&logo=github)](https://github.com/DevinRShaw)
 
----
-
-*Interested in systems programming, distributed computing, and building software that scales.*
