@@ -2,16 +2,16 @@
 
 **Software Engineer | UC Riverside CS '25 | LLNL Co-op**
 
-I'm passionate about building high-performance systems that prioritize speed, scale, and simplicity. Currently optimizing image-processing pipelines at Lawrence Livermore National Laboratory, where I reduced computation time by 98% through parallelization and efficient system design.
+I'm passionate about building high-performance systems that prioritize speed, scale, and simplicity. Most recently at Lawrence Livermore National Laboratory, I optimized image-processing pipelines, reducing computation time by 98% through parallelization and productionized scientific software packages enabling researchers to deploy and use our tools in production environments.
 
-## 🚀 What I Do
+## My Interests
 
 I specialize in building robust, scalable software systems with a focus on:
 - **High-Performance Computing** – Parallel processing, concurrency, and optimization
 - **Backend Development** – Server design, networking protocols, and distributed systems
 - **Machine Learning Engineering** – Production ML pipelines and data-driven solutions
 
-## 💼 Professional Experience
+## Professional Experience
 
 **Software Engineering Co-op @ Lawrence Livermore National Laboratory**  
 *June 2025 – December 2025*
