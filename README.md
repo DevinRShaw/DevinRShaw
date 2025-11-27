@@ -18,11 +18,10 @@ My favorite personal projects have been the games I developed, both of which hav
 ### Game Development
 - **[Heart's Bid (C#/Unity)](https://github.com/DevinRShaw/Poker-Hand-2D-Combat-Game)** – 2D poker-combat shooter with hand-ranking mechanics and enemy AI pathfinding. [Play in browser →](https://nikohnoo.itch.io/hearts-bid)
 
-### System-Level Programming
 - **[Flappy Bird AVR Clone](https://github.com/DevinRShaw/Clicky-Bird-Embedded-AVR-Game)** – Real-time embedded game on bare-metal ATmega328P with custom interrupt-driven scheduler. Optimized memory usage by 99.6% through efficient rendering algorithms within 2KB RAM constraint.
-- **[TCP Chat Room (C++)](https://github.com/DevinRShaw/TerminalChatRoom)** – Multi-threaded client-server chatroom with authentication, admin privileges, and persistent logging.
 
 ### Networking & Distributed Systems
+- **[TCP Chat Room (C++)](https://github.com/DevinRShaw/TerminalChatRoom)** – Multi-threaded client-server chatroom with authentication, admin privileges, and persistent logging.
 - **[DHCP Server (Python)](link)** – Multi-threaded DHCP implementation with lease management, intelligent IP allocation, and thread-safe concurrency controls.
 - **[Reddit Search Engine](https://github.com/DevinRShaw/RedditSearchEngine)** – Multi-threaded web crawler with PyLucene indexing and Flask interface for fast, distributed search.
 
