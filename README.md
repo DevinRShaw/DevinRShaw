@@ -4,6 +4,10 @@
 
 I'm passionate about building high-performance systems that prioritize speed, scale, and simplicity. Most recently at Lawrence Livermore National Laboratory, I optimized image-processing pipelines, reducing computation time by 98% through parallelization and productionized scientific software packages enabling researchers to deploy and use our tools in production environments.
 
+
+https://github.com/user-attachments/assets/82c10484-3d8d-488a-8c53-2c6f7d8d59bf
+
+
 ## My Interests
 
 I specialize in building robust, scalable software systems with a focus on:
