@@ -6,21 +6,13 @@ I'm most interested in creating solution to problems where performance and concu
 
 My favorite personal projects have been the games I developed, both of which have gameplay featured in their README files. Although I am not interested in game development as a career, it is a fun practice and playing them is a reward.
 
-## 🛠️ Technical Stack
-
-**Languages:** Python • C++ • SQL • C# • Bash • Java  
-**Systems:** Linux • Concurrency & Multithreading • TCP/UDP Networking • Real-time Processing  
-**ML/Data:** Pandas • NumPy • Scikit-Learn • Apache Spark • Matplotlib  
-**Tools:** Git • Flask • CMake • GDB • Pytest
-
 ## 🎯 Featured Projects
 
 ### Game Development
 - **[Heart's Bid (C#/Unity)](https://github.com/DevinRShaw/Poker-Hand-2D-Combat-Game)** – 2D poker-combat shooter with hand-ranking mechanics and enemy AI pathfinding. [Play in browser →](https://nikohnoo.itch.io/hearts-bid)
-
 - **[Flappy Bird AVR Clone](https://github.com/DevinRShaw/Clicky-Bird-Embedded-AVR-Game)** – Real-time embedded game on bare-metal ATmega328P with custom interrupt-driven scheduler. Optimized memory usage by 99.6% through efficient rendering algorithms within 2KB RAM constraint.
 
-### Networking & Distributed Systems
+### Networking 
 - **[TCP Chat Room (C++)](https://github.com/DevinRShaw/TerminalChatRoom)** – Multi-threaded client-server chatroom with authentication, admin privileges, and persistent logging.
 - **[DHCP Server (Python)](link)** – Multi-threaded DHCP implementation with lease management, intelligent IP allocation, and thread-safe concurrency controls.
 - **[Reddit Search Engine](https://github.com/DevinRShaw/RedditSearchEngine)** – Multi-threaded web crawler with PyLucene indexing and Flask interface for fast, distributed search.
