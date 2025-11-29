@@ -4,7 +4,7 @@
 
 I'm most interested in creating solutions to problems where performance and concurrency are important. I want to grow as an engineer in a role that not only requires correctness of computation, but also places constraints on speed and the resources available. 
 
-My favorite personal projects have been games, both of which have gameplay featured in their README files. Although I am not interested in game development as a career, it is a fun application of computers and playing them is the reward.
+Two of my favorite projects to show off are my games. Checkout their READMEs to see some gameplay.
 
 ## 🎯 Featured Projects
 
