@@ -14,7 +14,6 @@ Two of my favorite projects to show off are my games. Checkout their READMEs to 
 
 ### Networking 
 - **[TCP Chat Room (C++)](https://github.com/DevinRShaw/TerminalChatRoom)** – Multi-threaded client-server chatroom with authentication, admin privileges, and persistent logging.
-- **[DHCP Server (Python)](link)** – Multi-threaded DHCP implementation with lease management, intelligent IP allocation, and thread-safe concurrency controls.
 - **[Reddit Search Engine](https://github.com/DevinRShaw/RedditSearchEngine)** – Multi-threaded web crawler with PyLucene indexing and Flask interface for fast, distributed search.
 
 ### Machine Learning & Data Engineering
