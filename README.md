@@ -6,7 +6,7 @@ I'm most interested in creating solutions to problems where performance and conc
 
 Two of my favorite projects to show off are my games. Checkout their READMEs to see some gameplay.
 
-## 🎯 Featured Projects
+## Featured Projects
 
 ### Game Development
 - **[Heart's Bid (C#/Unity)](https://github.com/DevinRShaw/Poker-Hand-2D-Combat-Game)** – 2D poker-combat shooter with hand-ranking mechanics and enemy AI pathfinding. [Play in browser →](https://nikohnoo.itch.io/hearts-bid)
