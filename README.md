@@ -19,7 +19,7 @@ Two of my favorite projects to show off are my games. Checkout their READMEs to 
 ### Machine Learning & Data Engineering
 - **[Magnetic Anomaly Prediction (Python)](https://github.com/DevinRShaw/MagneticAnomalyPrediction)** – Random forest regression model improving crustal magnetic field mapping accuracy for MagNav navigation systems.
 - **[Ocular Disease Recognition](https://github.com/DevinRShaw/Ocular-Disease-Recognition-)** – Apache Spark ML pipeline on AWS EC2 cluster with MySQL backend and Flask deployment for real-time predictions.
-
+- **[Delivery Database System](https://github.com/DevinRShaw/Ocular-Disease-Recognition-)** –  Role-based backend schema defining Users, Items, Orders, and Stores with strict permission controls and order lifecycle management.
 
 ## 📫 Let's Connect
 
