@@ -13,9 +13,8 @@ Two of my favorite projects to show off are my games. Checkout their READMEs to 
 - **[Ocular Disease Recognition](https://github.com/DevinRShaw/Ocular-Disease-Recognition-)** – Apache Spark ML pipeline on AWS EC2 cluster with MySQL backend and Flask deployment for real-time predictions.
 - **[Delivery Database System](https://github.com/DevinRShaw/Ocular-Disease-Recognition-)** – Role-based backend schema defining Users, Items, Orders, and Stores with permission controls and order lifecycle management.
 - **[FastAPI Caretaking System](https://github.com/DevinRShaw/FastAPICaretakingSystem)** – Asynchronous FastAPI and MongoDB backend for managing patient cases, form processing, and caregiver workflows with modular architecture and startup data initialization.
-- **[TCP Chat Room (C++)](https://github.com/DevinRShaw/TerminalChatRoom)** – Multi-threaded client-server chatroom with authentication, admin privileges, and persistent logging.
 - **[Reddit Search Engine](https://github.com/DevinRShaw/RedditSearchEngine)** – Multi-threaded web crawler with PyLucene indexing and Flask interface for fast, distributed search.
-
+- **[TCP Chat Room (C++)](https://github.com/DevinRShaw/TerminalChatRoom)** – Multi-threaded client-server chatroom with authentication, admin privileges, and persistent logging.
 
 
 ### Game Development
