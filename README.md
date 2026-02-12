@@ -8,6 +8,13 @@ Two of my favorite projects to show off are my games. Checkout their READMEs to 
 
 ## Featured Projects
 
+### Backend / Machine Learning / Data Engineering
+- **[Magnetic Anomaly Prediction (Python)](https://github.com/DevinRShaw/MagneticAnomalyPrediction)** – Random forest regression model improving crustal magnetic field mapping accuracy for MagNav navigation systems.
+- **[Ocular Disease Recognition](https://github.com/DevinRShaw/Ocular-Disease-Recognition-)** – Apache Spark ML pipeline on AWS EC2 cluster with MySQL backend and Flask deployment for real-time predictions.
+- **[Delivery Database System](https://github.com/DevinRShaw/Ocular-Disease-Recognition-)** – Role-based backend schema defining Users, Items, Orders, and Stores with permission controls and order lifecycle management.
+- **[FastAPI Caretaking System](https://github.com/DevinRShaw/FastAPICaretakingSystem)** – Asynchronous FastAPI and MongoDB backend for managing patient cases, form processing, and caregiver workflows with modular architecture and startup data initialization.
+
+
 ### Game Development
 - **[Heart's Bid (C#/Unity)](https://github.com/DevinRShaw/Poker-Hand-2D-Combat-Game)** – 2D poker-combat shooter with hand-ranking mechanics and enemy AI pathfinding. [Play in browser →](https://nikohnoo.itch.io/hearts-bid)
 - **[Flappy Bird AVR Clone](https://github.com/DevinRShaw/Clicky-Bird-Embedded-AVR-Game)** – Real-time embedded game on bare-metal ATmega328P with custom interrupt-driven scheduler. Optimized memory usage by 99.6% through efficient rendering algorithms within 2KB RAM constraint.
@@ -16,10 +23,7 @@ Two of my favorite projects to show off are my games. Checkout their READMEs to 
 - **[TCP Chat Room (C++)](https://github.com/DevinRShaw/TerminalChatRoom)** – Multi-threaded client-server chatroom with authentication, admin privileges, and persistent logging.
 - **[Reddit Search Engine](https://github.com/DevinRShaw/RedditSearchEngine)** – Multi-threaded web crawler with PyLucene indexing and Flask interface for fast, distributed search.
 
-### Machine Learning & Data Engineering
-- **[Magnetic Anomaly Prediction (Python)](https://github.com/DevinRShaw/MagneticAnomalyPrediction)** – Random forest regression model improving crustal magnetic field mapping accuracy for MagNav navigation systems.
-- **[Ocular Disease Recognition](https://github.com/DevinRShaw/Ocular-Disease-Recognition-)** – Apache Spark ML pipeline on AWS EC2 cluster with MySQL backend and Flask deployment for real-time predictions.
-- **[Delivery Database System](https://github.com/DevinRShaw/Ocular-Disease-Recognition-)** –  Role-based backend schema defining Users, Items, Orders, and Stores with permission controls and order lifecycle management.
+
 
 ## 📫 Let's Connect
 
