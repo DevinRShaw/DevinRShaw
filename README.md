@@ -19,7 +19,7 @@ Two of my favorite projects to show off are my games. Checkout their READMEs to 
 
 ### Game Development
 - **[Heart's Bid (C#/Unity)](https://github.com/DevinRShaw/Poker-Hand-2D-Combat-Game)** – 2D poker-combat shooter with hand-ranking mechanics and enemy AI pathfinding. [Play in browser →](https://nikohnoo.itch.io/hearts-bid)
-- **[Flappy Bird AVR Clone](https://github.com/DevinRShaw/Clicky-Bird-Embedded-AVR-Game)** – Real-time embedded game on bare-metal ATmega328P with custom interrupt-driven scheduler. Optimized memory usage by 99.6% through efficient rendering algorithms within 2KB RAM constraint.
+- **[Flappy Bird AVR Clone (C/C++)](https://github.com/DevinRShaw/Clicky-Bird-Embedded-AVR-Game)** – Real-time embedded game on bare-metal ATmega328P with custom interrupt-driven scheduler. Optimized memory usage by 99.6% through efficient rendering algorithms within 2KB RAM constraint.
 
 
 
